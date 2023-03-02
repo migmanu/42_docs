@@ -1,0 +1,23 @@
+
+ [x] check bases
+ 	- if base wrong return NULL
+ 	
+ [x] clean nbr
+  	[x] ignore spaces and '+'
+  	[x] check amount of '-'
+  	[x] find match with chars in base_from
+  	[x] return error if any other char?
+  	
+ - translate nbr to decimal
+ 	- add for every char: (base_length ^ char pos in nbr from end) * (pos char in base)
+ - check if result is int
+ - translate result to base_to
+ 
+ functions:
+ 
+  [x] string length
+  [x] check base
+  - check negative??
+  - atoi?
+  - pos of character in nbr from end
+  - pos of char in base
