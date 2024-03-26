@@ -1,0 +1,42 @@
+[submodule "so_long"]
+	path = so_long
+	url = git@github.com:migmanu/so_long.git
+[submodule "minishell"]
+	path = minishell
+	url = git@github.com:migmanu/minishell.git
+[submodule "philosophers"]
+	path = philosophers
+	url = git@github.com:migmanu/philosophers.git
+[submodule "libft"]
+	path = libft
+	url = git@github.com:migmanu/libft.git
+[submodule "get_next_line"]
+	path = get_next_line
+	url = git@github.com:migmanu/get_next_line.git
+[submodule "push_swap"]
+	path = push_swap
+	url = git@github.com:migmanu/push_swap.git
+[submodule "pipex"]
+	path = pipex
+	url = git@github.com:migmanu/pipex.git
+[submodule "minitalk"]
+	path = minitalk
+	url = git@github.com:migmanu/minitalk.git
+[submodule "ft_printf"]
+	path = ft_printf
+	url = git@github.com:migmanu/ft_printf.git
+[submodule "42_cpp/42_cpp_00"]
+	path = 42_cpp/42_cpp_00
+	url = git@github.com:migmanu/42_cpp_00.git
+[submodule "42_cpp/42_cpp_01"]
+	path = 42_cpp/42_cpp_01
+	url = git@github.com:migmanu/42_cpp_01.git
+[submodule "42_cpp/42_cpp_02"]
+	path = 42_cpp/42_cpp_02
+	url = git@github.com:migmanu/42_cpp_02.git
+[submodule "42_cpp/42_cpp_03"]
+	path = 42_cpp/42_cpp_03
+	url = git@github.com:migmanu/42_cpp_03.git
+[submodule "42_cpp/42_cpp_04"]
+	path = 42_cpp/42_cpp_04
+	url = git@github.com:migmanu/42_cpp_04.git
