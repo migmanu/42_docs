@@ -43,3 +43,6 @@
 [submodule "miniRT"]
 	path = miniRT
 	url = git@github.com:migmanu/miniRT.git
+[submodule "42_cpp/42_cpp_05"]
+	path = 42_cpp/42_cpp_05
+	url = git@github.com:migmanu/42_cpp_05.git
