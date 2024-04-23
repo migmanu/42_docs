@@ -46,3 +46,6 @@
 [submodule "42_cpp/42_cpp_05"]
 	path = 42_cpp/42_cpp_05
 	url = git@github.com:migmanu/42_cpp_05.git
+[submodule "net_practice"]
+	path = net_practice
+	url = git@github.com:migmanu/net_practice.git
