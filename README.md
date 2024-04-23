@@ -14,6 +14,7 @@ Please feel free to reach out if you have any questions, my intra name is jmigoy
 
 
 ### Using `neovim`
+![Screenshot from 2024-04-23 12-17-28](https://github.com/migmanu/42_docs/assets/52668755/b717e048-5377-433e-801e-5b69c71fabee)
 
 Even though VS Code is available in campus, exams require you to use either plain old `vim` or `gedit`. So it is a good idea to get used to how `vim` works. It might take some time getting used to, but believe me, it is so worth it down the line.
 
