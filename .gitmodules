@@ -52,3 +52,6 @@
 [submodule "42_cpp/42_cpp_06"]
 	path = 42_cpp/42_cpp_06
 	url = git@github.com:migmanu/42_cpp_06.git
+[submodule "inception"]
+	path = inception
+	url = git@github.com:migmanu/inception.git
