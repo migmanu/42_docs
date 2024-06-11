@@ -1,5 +1,5 @@
 # 42 School Berlin Projects
-<p>
+<p align="center">
     <img src="42_docs_header.gif" alt="animated" />
 </p>
 ## Introduction
