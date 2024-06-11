@@ -1,6 +1,6 @@
 # 42 School Berlin Projects
 <p>
-![](https://github.com/migmanu/42_docs/blob/main/42_docs_header.gif)
+    <img src="42_docs_header.gif" alt="animated" />
 </p>
 ## Introduction
 
