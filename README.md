@@ -1,5 +1,5 @@
 # 42 School Berlin Projects
-
+[https://github.com/migmanu/42_docs/blob/main/42_docs_header.gif]
 ## Introduction
 
 This repo contains all my 42 Berlin School projects, plus some stuff that might help you along your journey.
