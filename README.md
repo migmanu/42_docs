@@ -2,6 +2,7 @@
 <p align="center">
     <img src="42_docs_header.gif" alt="animated" />
 </p>
+
 ## Introduction
 
 This repo contains all my 42 Berlin School projects, plus some stuff that might help you along your journey.
