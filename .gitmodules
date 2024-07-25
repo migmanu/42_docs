@@ -61,3 +61,6 @@
 [submodule "42_cpp/42_cpp_08"]
 	path = 42_cpp/42_cpp_08
 	url = git@github.com:migmanu/42_cpp_08.git
+[submodule "42_cpp/42_cpp_09"]
+	path = 42_cpp/42_cpp_09
+	url = git@github.com:migmanu/42_cpp_09.git
