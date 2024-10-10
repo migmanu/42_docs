@@ -64,3 +64,6 @@
 [submodule "42_cpp/42_cpp_09"]
 	path = 42_cpp/42_cpp_09
 	url = git@github.com:migmanu/42_cpp_09.git
+[submodule "Webserv"]
+	path = Webserv
+	url = git@github.com:migmanu/Webserv.git
