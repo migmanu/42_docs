@@ -5,27 +5,28 @@
 
 ## Introduction
 
-This repo contains all my 42 Berlin School projects, plus some stuff that might help you along your journey.
+This repository contains all my projects from 42 Berlin School, along with some additional resources that might assist you on your journey.
 
-All projects are included as git submodules, if you wanna have them all, just clone this repo and run:
+All projects are included as git submodules. If you want to have them all, just clone this repository and run:
 
-`git submodule update --init`
+```bash
+git submodule update --init
+```
 
-Please feel free to reach out if you have any questions, my intra name is jmigoya-.
+Feel free to reach out if you have any questions. My intra username is jmigoya-.
 
-## Set your editor
-
+## Set Your Editor
 
 ### Using `neovim`
 ![Screenshot from 2024-04-23 12-17-28](https://github.com/migmanu/42_docs/assets/52668755/b717e048-5377-433e-801e-5b69c71fabee)
 
-Even though VS Code is available in campus, exams require you to use either plain old `vim` or `gedit`. So it is a good idea to get used to how `vim` works. It might take some time getting used to, but believe me, it is so worth it down the line.
+Although VS Code is available on campus, exams require you to use either `vim` or `gedit`. Therefore, it is a good idea to become familiar with `vim`. It might take some time to get used to, but it is definitely worth it in the long run.
 
-For those of you who might still want a modern IDE experience, there tons of plugins and also `neovim` to help you get that.
+For those who still want a modern IDE experience, there are many plugins and also `neovim` to help you achieve that.
 
 #### Installing `neovim`
 
-This requires that you have `neovim` installed on your computer. If your campus does not provide you with it, you can do so without `sudo` privileges by using an AppImage, as detailed [here](https://github.com/neovim/neovim/blob/master/INSTALL.md):
+You need to have `neovim` installed on your computer. If your campus does not provide it, you can install it without `sudo` privileges by using an AppImage, as detailed [here](https://github.com/neovim/neovim/blob/master/INSTALL.md):
 
 ```bash
 curl -LO https://github.com/neovim/neovim/releases/latest/download/nvim.appimage
@@ -35,33 +36,36 @@ mkdir -p /opt/nvim
 mv nvim.appimage /opt/nvim/nvim
 ```
 
-Add the path to your `~/.bashrc` or your `~/.zshrc`:
+Add the path to your `~/.bashrc` or `~/.zshrc`:
 
-`export PATH="$PATH:/opt/nvim/"`
+```bash
+export PATH="$PATH:/opt/nvim/"
+```
 
 #### Configuring `neovim`
 
-By default, `neovim` will look for your configuration at `~/.config/nvim`.
- In here I provide my `neovim` configuration, which you can install running:
+By default, `neovim` will look for your configuration at `~/.config/nvim`. Here, I provide my `neovim` configuration, which you can install by running:
 
 ```bash
-cd .config
+cd ~/.config
 git clone https://github.com/migmanu/nvim_42 nvim
 ```
-Now run `nvim` and watch how `Lazy` installs the listed plugins.
+
+Now run `nvim` and watch as `Lazy` installs the listed plugins.
 
 My configuration uses [LazyVim](https://github.com/LazyVim/LazyVim) and is heavily based on the [starter template](http://www.lazyvim.org/installation).
 
-In here you have more than you need to get started. Some of the helpful commands available are:
+Here, you have more than you need to get started. Some of the helpful commands available are:
 
-- `space` as leader key
-- run `:Stdheader` to get 42 header on file
-- `f2` for norminette formatting
-- `Control + 7` toggle terminal
-- `leader + e` to open files menu
+- `space` as the leader key
+- Run `:Stdheader` to get the 42 header on a file
+- `leader + e` to open the files menu
 - `leader ff` for file search
-- `leader + sg` search by grep
+- `leader + sg` to search by grep
+- Run `:CopilotChat` to use Copilot
+- Run `:CopilotChatSocrates` for a custom prompt that helps you solve problems through the Socratic method
 
-One of the best quality of life plugins installed is [harpoon](https://github.com/ThePrimeagen/harpoon). I strongly recommend you taking a look at it. Between that and file search, you might never open the file explorer again!
+One of the best quality-of-life plugins installed is [harpoon](https://github.com/ThePrimeagen/harpoon). I strongly recommend checking it out. Between that and file search, you might never open the file explorer again!
 
-*Note that this config is a work in progress and that it might still change a bunch.
+*Note that this configuration is a work in progress and may still change significantly.*
+
