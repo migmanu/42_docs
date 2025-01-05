@@ -10,7 +10,9 @@ This repository contains all my projects from 42 Berlin School, along with some 
 All projects are included as git submodules. If you want to have them all, just clone this repository and run:
 
 ```bash
-git submodule update --init
+git submodule update --init --recursive
+git submodule foreach 'git checkout main'
+git submodule foreach 'git pull origin main'
 ```
 
 Feel free to reach out if you have any questions. My intra username is jmigoya-.
