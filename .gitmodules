@@ -67,3 +67,9 @@
 [submodule "Webserv"]
 	path = Webserv
 	url = git@github.com:migmanu/Webserv.git
+[submodule "Transcendence"]
+	path = Transcendence
+	url = git@github.com:deniz-oezdemir/Transcendence.git
+[submodule "n-puzzle"]
+	path = n-puzzle
+	url = git@github.com:migmanu/n-puzzle.git
