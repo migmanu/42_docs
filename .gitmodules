@@ -73,3 +73,6 @@
 [submodule "n-puzzle"]
 	path = n-puzzle
 	url = git@github.com:migmanu/n-puzzle.git
+[submodule "inception-of-things"]
+	path = inception-of-things
+	url = git@github.com:migmanu/inception-of-things.git
